@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Zé Chinelão</string>
+    <string-array name="eq2_solucao_array">
+        <item>Solução</item>
+        <item>Formula de Bhaskara</item>
+        <item>Completar quadrado</item>
+        <item>Equação incompleta</item>
+    </string-array>
+
+    <string-array name="mdc_array">
+        <item>Solução</item>
+        <item>Fatoração</item>
+        <item>Algoritmo de Euclides</item>
+    </string-array>
+
+
+    <string-array name="mmc_array">
+        <item>Solução</item>
+        <item>Fatoração</item>
+        <item>Cálculo Eficiente</item>
+    </string-array>
+
+    <string-array name="fatoracao_array">
+        <item>Solução</item>
+        <item>Fatoração</item>
+    </string-array>
+
+    <string-array name="sistema_array">
+        <item>Solução</item>
+        <item>Método de Gauss-Jordan</item>
+    </string-array>
+
+    <string-array name="matriz_array">
+        <item>Inversa</item>
+        <item>Determinante</item>
+        <item>Determinante: Regra de Sarrus</item>
+    </string-array>
+
+
+</resources>
